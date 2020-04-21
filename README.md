@@ -7,7 +7,7 @@ Identification of disaster messages and response categories using ETL, NLP and M
 - [Data Descriptions](#data-descriptions)
 - [File Descriptions](#file-descriptions)
 - [Results](#results)
-- [Licensing, Authors, Acknowledgements](#<licensing, authors, acknowledgements>)
+- [Licensing, Authors, Acknowledgements](#end)
 
 ## Installation
 There is no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.
@@ -41,6 +41,6 @@ There is a note file that shows the classification report with test data.
 In this project, I tested both Decision Tree and Random Forest Classifiers and decided to use the RandomForestClassifier for categorization. According to the classification report, the project showed good precision and high scores especially for cagetories with large sample sizes (e.g. with precision > 0.9).
 
 In order to further improve the model, using larger sample sizes and tuning more combinations of parameters with GridSearchCV are desired.
-
+<a name="end"></a>
 ## Licensing, Authors, Acknowledgements
 Credit goes to [Figure Eight](https://appen.com/) for the data. The code is under open source GNU, feel free to use the code here as you would like!
