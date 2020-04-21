@@ -3,8 +3,8 @@ Identification of disaster messages and response categories using ETL, NLP and M
 
 ## Table of Contents:
 - [Installation](#installation)
-- [Project Motivation](#project motivation)
-- [Data Descriptions](#data descriptions)
+- [Project Motivation](#project-motivation)
+- [Data Descriptions](#data-descriptions)
 - [File Descriptions](#heading-4)
 - [Results](#heading-5)
 - [Licensing, Authors, Acknowledgements](#heading-6)
