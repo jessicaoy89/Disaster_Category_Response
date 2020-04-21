@@ -2,7 +2,7 @@
 Identification of disaster messages and response categories using ETL, NLP and ML pipelines
 
 ## Table of Contents:
-[Installation](##Installation)
+[Installation](#sub-heading-1)
 [Project Motivation](##Project Motivation)
 [Data Descriptions](##Data Descriptions)
 [File Descriptions](##File Descriptions)
