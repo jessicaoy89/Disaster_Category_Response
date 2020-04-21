@@ -2,13 +2,6 @@
 Identification of disaster messages and response categories using ETL, NLP and ML pipelines
 
 ## Installation
-## Project Motivation
-## Data Descriptions
-## File Descriptions
-## Results
-## Licensing, Authors, Acknowledgements
-
-## Installation
 There is no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.
 
 To run the project in its root directory, proceed with the following steps in command window: 
