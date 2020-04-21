@@ -2,12 +2,12 @@
 Identification of disaster messages and response categories using ETL, NLP and ML pipelines
 
 ## Table of Contents:
-[Installation](#sub-heading-1)
-[Project Motivation](##Project Motivation)
-[Data Descriptions](##Data Descriptions)
-[File Descriptions](##File Descriptions)
-[Results](##Results)
-[Licensing, Authors, Acknowledgements](##Licensing, Authors, Acknowledgements)
+[Installation](#heading-1)
+[Project Motivation](#heading-2)
+[Data Descriptions](#heading-3)
+[File Descriptions](#heading-4)
+[Results](#heading-5)
+[Licensing, Authors, Acknowledgements](#heading-6)
 
 ## Installation
 There is no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.
